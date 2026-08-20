@@ -1,0 +1,10 @@
+h1 {
+        color: rgb(108, 82, 179);
+    }
+    p {
+        font-size: 20px ;
+        color: rgb(157, 184, 94);
+    }
+    .hightlight {
+        background-color: rgb(226, 226, 60);
+}
